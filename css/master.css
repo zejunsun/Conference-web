@@ -595,12 +595,12 @@ footer .foot p {
   .logo{
       float: none;
       position:absolute;
-      left:35%;
+      left:40%;
       margin: 55px 0 0 -100px;
   }
 
   .logo img{
-    height: 100px;
+    height: 80px;
   }
 
   .nav ul li a{
