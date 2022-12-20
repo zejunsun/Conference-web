@@ -150,7 +150,7 @@ h4 {
 }
 
 .btn{
-          display:none;
+  display:none;
 }
 
 
@@ -796,4 +796,14 @@ footer .foot p {
     font-size: 0.9rem;
   }
 
+  header .site_title a {
+    font-size: 35px;
+    font-family: Abel;
+    color: #2f8ed7;
+    float: none;
+    position:absolute;
+    left:40%;
+    margin: 70px 0 0 -100px;
+  }
+  
 }
