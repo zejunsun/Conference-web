@@ -95,7 +95,7 @@ h4 {
   width:100%;
   background: #fff;
   border-bottom: 0.2px solid rgba(0, 0, 0, .2);
-  height: 97px;
+  height: 120px;
   line-height: 3.5em;
 }
 
@@ -797,13 +797,13 @@ footer .foot p {
   }
 
   header .site_title a {
-    font-size: 35px;
+    font-size: 30px;
     font-family: Abel;
     color: #2f8ed7;
     float: none;
     position:absolute;
-    left:40%;
-    margin: 70px 0 0 -100px;
+    left:50%;
+    margin: 30px 0 0 -100px;
   }
   
 }
