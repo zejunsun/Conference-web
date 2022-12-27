@@ -323,6 +323,8 @@ footer .foot p {
 
 .research p{
   font-size: 1.1em;
+  line-height: 1.5em;
+  margin: 2em 0em 2em 0em;
 }
 
 .research_image p {
