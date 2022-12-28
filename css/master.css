@@ -517,6 +517,64 @@ footer .foot p {
   color: #5F6368;
 }
 
+/*networking and social activities*/
+.networking {
+  padding: 30px;
+  margin-bottom: 40px;
+  border-radius: 6px;
+  box-shadow: 4px 4px 16px #cdcdcd;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.tour {
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.tour_text {
+  width: 48%;
+  vertical-align: middle;
+  padding-left: 20px;
+  float:right;
+}
+
+.tour_pic{
+  width: 50%;
+  vertical-align: middle;
+  float:left;
+}
+
+.tour img {
+  vertical-align: middle;
+  width:100%;
+}
+
+.networking p{
+  font-size: 1.1em;
+  line-height: 1.2em;
+  margin: 1.2em 0em 1.2em 0em;
+}
+
+.networking_image p {
+  text-align: center;
+}
+
+.networking div {
+  margin: 10px auto 20px;
+}
+
+.networking img {
+  width: 100%;
+  vertical-align: middle;
+}
+
+.networking ul {
+  list-style-type: disc;
+}
+
 
 @media screen and (max-width:960px){
   body {
