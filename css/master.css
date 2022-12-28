@@ -100,7 +100,7 @@ h4 {
 }
 
 .nav{
-    width:1000px;
+    width:70%;
     margin:0 auto;
     height: 100px;
     position: relative;
@@ -172,7 +172,7 @@ footer .foot img {
 }
 
 footer .foot p {
-  padding-top: 20px;
+  padding-top: 30px;
   color: #9a9a9a;
 }
 
